@@ -4,4 +4,6 @@
 
 ## Made date
 
-22. 9. 24 : checkbox added
+2022/9/24 : checkbox added
+2022/9/25 : speech-bubble added
+2022/9/29 : input(type=file) added

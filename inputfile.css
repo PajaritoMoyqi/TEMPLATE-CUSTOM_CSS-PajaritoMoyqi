@@ -1,0 +1,21 @@
+/* how-to make custom speech-bubble step 
+
+1. make div in label as button (don't forget keyword 'for' which is connected to input id)
+2. hide original input
+
+*/
+
+.upload-btn {
+  width: 10rem;
+  height: 3rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input[type="file"]#image-upload {
+  display: none;
+}
